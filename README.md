@@ -39,16 +39,6 @@ TODO
 
 - [tiny-invariant](https://github.com/alexreardon/tiny-invariant) - A function for assertions.
 
-### Data Structures
-
-- [dequal](https://github.com/lukeed/dequal) - Deep equal utility.
-- [dlv](https://github.com/developit/dlv) - Deep property access utility.
-- [dset](https://github.com/lukeed/dset) - Deep property set utility.
-- [klona](https://github.com/lukeed/klona) - Deep clone utility.
-- [neotraverse](https://github.com/PuruVJ/neotraverse) - Traverse and transform objects by visiting every node on a recursive walk.
-- [pkg-types](https://github.com/unjs/pkg-types) - TypeScript types and utilities for package.json files.
-- [sort-object-keys](https://github.com/keithamus/sort-object-keys) - Sort object keys with optional key list specification.
-
 ### Command Line Interfaces (CLI)
 
 - [ansis](https://github.com/webdiscus/ansis) - Terminal output formatting with ANSI colors and styles.
@@ -59,6 +49,16 @@ TODO
 - [picocolors](https://github.com/alexeyraspopov/picocolors) - Terminal output formatting with ANSI colors and styles.
 - [picospinner](https://github.com/PondWader/picospinner) - CLI spinner library.
 - [sade](https://github.com/lukeed/sade) - CLI arguments and usage builder.
+
+### Data Structures
+
+- [dequal](https://github.com/lukeed/dequal) - Deep equal utility.
+- [dlv](https://github.com/developit/dlv) - Deep property access utility.
+- [dset](https://github.com/lukeed/dset) - Deep property set utility.
+- [klona](https://github.com/lukeed/klona) - Deep clone utility.
+- [neotraverse](https://github.com/PuruVJ/neotraverse) - Traverse and transform objects by visiting every node on a recursive walk.
+- [pkg-types](https://github.com/unjs/pkg-types) - TypeScript types and utilities for package.json files.
+- [sort-object-keys](https://github.com/keithamus/sort-object-keys) - Sort object keys with optional key list specification.
 
 ### ESLint Plugins
 
