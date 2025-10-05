@@ -91,10 +91,13 @@ TODO
 
 ### Project Tools
 
+- [actions-up](https://github.com/azat-io/actions-up) - CLI tool for keeping GitHub Actions up to date.
 - [cpx2](https://github.com/bcomnes/cpx2) - Copy file globs with optional change watching.
 - [knip](https://github.com/webpro/knip) - Find unused files, dependencies and exports in TypeScript and JavaScript projects.
+- [multiocular](https://github.com/multiocular-com/multiocular) - Review dependency changes.
 - [npm-run-all2](https://github.com/bcomnes/npm-run-all2) - CLI tool to run multiple npm scripts in parallel or sequential.
 - [premove](https://github.com/lukeed/premove) - Utility to remove items recursively.
+- [taze](https://github.com/antfu-collective/taze) - CLI tool for keeping dependencies up to date.
 - [wireit](https://github.com/google/wireit) - Upgrade npm scripts with enhanced capabilities.
 
 ### Parsing
