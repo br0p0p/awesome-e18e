@@ -39,6 +39,12 @@ TODO
 
 - [tiny-invariant](https://github.com/alexreardon/tiny-invariant) - A function for assertions.
 
+### Build Tools
+
+- [rolldown](https://github.com/rolldown/rolldown) - Fast bundler (`rollup` alternative).
+- [tsdown](https://github.com/rolldown/tsdown) - Library bundler based on Rolldown.
+- [zshy](https://github.com/colinhacks/zshy) - General purpose, bundler-free build tool.
+
 ### Command Line Interfaces (CLI)
 
 - [ansis](https://github.com/webdiscus/ansis) - Terminal output formatting with ANSI colors and styles.
