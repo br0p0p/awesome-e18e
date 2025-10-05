@@ -110,8 +110,10 @@ TODO
 
 ### Parsing
 
-- [yaml](https://github.com/eemeli/yaml) - JavaScript parser and stringifier for YAML.
+- [confbox](https://github.com/unjs/confbox) - Zero-dependency parsing and serialization for YAML, TOML, JSONC, JSON5, INI, and JSON.
+- [lilconfig](https://github.com/antonk52/lilconfig) - Configuration loader
 - [parse5](https://github.com/inikulin/parse5) - Fast full-featured HTML parser.
+- [yaml](https://github.com/eemeli/yaml) - JavaScript parser and stringifier for YAML.
 
 ### Process Execution
 
