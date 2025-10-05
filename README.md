@@ -50,6 +50,8 @@ TODO
 - [ansis](https://github.com/webdiscus/ansis) - Terminal output formatting with ANSI colors and styles.
 - [clack](https://github.com/bombshell-dev/clack) - CLI framework for building interactive prompts.
 - [fast-string-width](https://github.com/fabiospampinato/fast-string-width) - Terminal string visual width utility.
+- [fast-slice-ansi](https://github.com/43081j/fast-slice-ansi) - String slicing with ANSI support.
+- [fast-wrap-ansi](https://github.com/43081j/fast-wrap-ansi) - Word wrapping with ANSI support.
 - [mri](https://github.com/lukeed/mri) - Command line arguments parser.
 - [nanospinner](https://github.com/usmanyunusov/nanospinner) - CLI spinner library.
 - [picocolors](https://github.com/alexeyraspopov/picocolors) - Terminal output formatting with ANSI colors and styles.
