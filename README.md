@@ -16,8 +16,10 @@ If you'd like to contribute, please check the [contribution guidelines](CONTRIBU
 - [Resources](#resources)
 - [Utilities](#utilities)
   - [Assertions](#assertions)
-  - [Data Structures](#data-structures)
+  - [Build Tools](#build-tools)
   - [Command Line Interfaces (CLI)](#command-line-interfaces-cli)
+  - [Configuration](#configuration)
+  - [Data Structures](#data-structures)
   - [ESLint Plugins](#eslint-plugins)
   - [File System](#file-system)
   - [Git Hooks](#git-hooks)
@@ -57,6 +59,11 @@ TODO
 - [picocolors](https://github.com/alexeyraspopov/picocolors) - Terminal output formatting with ANSI colors and styles.
 - [picospinner](https://github.com/PondWader/picospinner) - CLI spinner library.
 - [sade](https://github.com/lukeed/sade) - CLI arguments and usage builder.
+
+### Configuration
+
+- [confbox](https://github.com/unjs/confbox) - Zero-dependency parsing and serialization for YAML, TOML, JSONC, JSON5, INI, and JSON.
+- [lilconfig](https://github.com/antonk52/lilconfig) - Configuration loader.
 
 ### Data Structures
 
@@ -110,8 +117,6 @@ TODO
 
 ### Parsing
 
-- [confbox](https://github.com/unjs/confbox) - Zero-dependency parsing and serialization for YAML, TOML, JSONC, JSON5, INI, and JSON.
-- [lilconfig](https://github.com/antonk52/lilconfig) - Configuration loader
 - [parse5](https://github.com/inikulin/parse5) - Fast full-featured HTML parser.
 - [yaml](https://github.com/eemeli/yaml) - JavaScript parser and stringifier for YAML.
 
